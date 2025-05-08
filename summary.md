@@ -15,14 +15,14 @@
 - Demo shop - przykładowych sklep do testowania naszych promocji.
 ### Engagement
 - Customers - klienci sklepu.
-- Segments - segmenty statyczne i dynamiczne
+- Segments - segmenty statyczne i dynamiczne.
 ### Audit log
-- Audit log - rejestr kto, co, kiedy zrobił
+- Audit log - rejestr kto, co, kiedy zrobił.
   
 ## Campaigns
 ### Types
-- Discount coupons - kody rabatowe na, np. produkt, dostawe, bundle - kup 2, 3 gratis
-- Promotion - promocje bez kodu
+- Discount coupons - kody rabatowe na, np. produkt, dostawe, bundle - kup 2, 3 produkt gratis.
+- Promotion - promocje bez kodu.
 - Referral codes - nagrody w różnych formach za polecanie znajomym.
-- Loyalty program - program lojalnościowy, nagrody za daną ilość punktów
-- gift vouchers - karty podarunkowe 
+- Loyalty program - program lojalnościowy, nagrody za daną ilość punktów.
+- Gift vouchers - karty podarunkowe.
